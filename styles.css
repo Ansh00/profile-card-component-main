@@ -50,3 +50,6 @@
 .number {
     color: gray;
 }
+hr{
+    opacity: 0.5;
+}
