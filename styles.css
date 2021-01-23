@@ -16,3 +16,21 @@
 .btn {
     transform: translate(34%,76%);
 }
+
+.card { 
+    width: 450px;
+    height: 500px;
+    
+    border-radius: 10px;
+    position: absolute;
+    top: 25%;
+    left: 50%;
+}
+
+.back-color{
+    background-image: url(images/bg-pattern-card.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px 10px 0 0;
+    
+}
