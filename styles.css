@@ -53,3 +53,13 @@
 hr{
     opacity: 0.5;
 }
+.small{
+    font-size: 12px;
+    letter-spacing: 2px;
+    color: gray;
+}
+.city{
+    margin-top: 15px;
+    margin-bottom: 50px;
+    color: gray;
+}
